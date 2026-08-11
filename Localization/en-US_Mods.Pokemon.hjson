@@ -1,0 +1,1017 @@
+Buffs: {
+	BuffsSunflowerBall: {
+		DisplayName: Sunkern
+		Description: Sunkern will fight for you!
+	}
+
+	BuffsSunflowerProj3: {
+		DisplayName: Buffs Sunflower Proj3
+		Description: Mods.Pokemon.Buffs.BuffsSunflowerProj3.Description
+	}
+
+	BuffsGastlyBadge: {
+		DisplayName: Gastly
+		Description: Gastly will fight for you!
+	}
+
+	BuffsGastlyBadgeProj7: {
+		DisplayName: Buffs Gastly Badge Proj7
+		Description: Mods.Pokemon.Buffs.BuffsGastlyBadgeProj7.Description
+	}
+
+	BuffsCharmanderBadge: {
+		DisplayName: Charmander
+		Description: Charmander will fight for you!
+	}
+
+	BuffsCharmanderBadgeProj6: {
+		DisplayName: Sword Dance
+		Description:
+			'''
+			"Dancing a war dance fiercely to raise your momentum"
+			Increases ATK by 20%
+			'''
+	}
+
+	BuffsBulbasaurBadge: {
+		DisplayName: Bulbasaur
+		Description: Bulbasaur will fight for you!
+	}
+
+	BuffsSquirtleBadge: {
+		DisplayName: Squirtle
+		Description: Squirtle will fight for you!
+	}
+
+	BuffsSquirtleBadgeProj3: {
+		DisplayName: Buffs Squirtle Badge Proj3
+		Description: Mods.Pokemon.Buffs.BuffsSquirtleBadgeProj3.Description
+	}
+
+	BuffsTogepiDoll: {
+		DisplayName: The blissful energy of Togepi
+		Description:
+			'''
+			"It transforms the warmth and joy that everyone feels
+			For happiness, it is said that it is full of happiness in its shell"
+			'''
+	}
+
+	BuffsTaillowBadge: {
+		DisplayName: Taillow
+		Description: Taillow will fight for you!
+	}
+
+	BuffsSpoinkBadge: {
+		DisplayName: Spoink
+		Description: Spoink will fight for you!
+	}
+
+	BuffsBeldumBadge: {
+		DisplayName: Beldum
+		Description: Beldum will fight for you!
+	}
+
+	BuffsBeldumBadgeProj7: {
+		DisplayName: Iron wall
+		Description:
+			'''
+			"Dancing a war dance fiercely to raise your momentum"
+			Increases ATK by 20%
+			'''
+	}
+
+	BuffsWingullBadge: {
+		DisplayName: Wingull
+		Description: Wingull will fight for you!
+	}
+
+	BuffsWingull_invis: {
+		DisplayName: White mist
+		Description:
+			'''
+			"You've entered the white mist......"
+			The player turns into smoke, clearing all debuffs from enemies and regenerating health over time
+			Players cannot use items, and enemies cannot lock on and attack the player
+			'''
+	}
+
+	BuffsVoltorbBadge: {
+		DisplayName: Voltorb
+		Description: Voltorb will fight for you!
+	}
+
+	BuffsMunchlaxBadge: {
+		DisplayName: Munchlax
+		Description: Munchlax will fight for you!
+	}
+
+	WhipAdvancedDebuff: {
+		DisplayName: Whip Advanced Debuff
+		Description: Mods.Pokemon.Buffs.WhipAdvancedDebuff.Description
+	}
+
+	WhipDebuff: {
+		DisplayName: Whip Debuff
+		Description: Mods.Pokemon.Buffs.WhipDebuff.Description
+	}
+
+	BuffsSquirtleShield: {
+		DisplayName: Squirtle Shield
+		Description: Increases defense by 6
+	}
+
+	BuffsFomantisBadge: {
+		DisplayName: Fomantis
+		Description: Fomantis will fight for you!
+	}
+
+	BuffsTrapinchBadge: {
+		DisplayName: Trapinch
+		Description: Trapinch will fight for you!
+	}
+
+	BuffsPikachuBadge: {
+		DisplayName: Pikachu
+		Description: Pikachu will fight for you!
+	}
+
+	BuffsSprigatitoSpellbook: {
+		DisplayName: Sprigatito Magic
+		Description: Movement speed +100%
+	}
+
+	BuffsSprigatitoBadge: {
+		DisplayName: Buffs Sprigatito Badge
+		Description: Mods.Pokemon.Buffs.BuffsSprigatitoBadge.Description
+	}
+}
+
+Items: {
+	SunflowerBall: {
+		DisplayName: Sunkern Badge
+		Tooltip:
+			'''
+			Equippable
+			*********************
+			Sunkern to fight for you!
+			Skill damage can be increased by the player's handheld weapon
+			'''
+	}
+
+	GastlyBadge: {
+		DisplayName: Gastly Badge
+		Tooltip:
+			'''
+			Equippable
+			*********************
+			Gastly to fight for you!
+			Skill damage can be increased by the player's handheld weapon
+			'''
+	}
+
+	ForcedExerciser: {
+		DisplayName: Forced Exerciser
+		Tooltip: ""
+	}
+
+	MagicCandy: {
+		DisplayName: Magic Candy
+		Tooltip: ""
+	}
+
+	CharmanderBadge: {
+		DisplayName: Charmander Badge
+		Tooltip:
+			'''
+			Equippable
+			*********************
+			Charmander to fight for you!
+			Skill damage can be increased by the player's handheld weapon
+			'''
+	}
+
+	BulbasaurBadge: {
+		DisplayName: Bulbasaur Badge
+		Tooltip:
+			'''
+			Equippable
+			*********************
+			Bulbasaur to fight for you!
+			Skill damage can be increased by the player's handheld weapon
+			'''
+	}
+
+	TrainerGoldCard: {
+		DisplayName: Trainer Gold Card
+		Tooltip: ""
+	}
+
+	BoulderBadge: {
+		DisplayName: Boulder Badge
+		Tooltip: ""
+	}
+
+	CascadeBadge: {
+		DisplayName: Cascade Badge
+		Tooltip: ""
+	}
+
+	ThunderBadge: {
+		DisplayName: Thunder Badge
+		Tooltip: ""
+	}
+
+	RainbowBadge: {
+		DisplayName: Rainbow Badge
+		Tooltip: ""
+	}
+
+	MarshBadge: {
+		DisplayName: Marsh Badge
+		Tooltip: ""
+	}
+
+	SoulBadge: {
+		DisplayName: Soul Badge
+		Tooltip: ""
+	}
+
+	VolcanoBadge: {
+		DisplayName: Volcano Badge
+		Tooltip: ""
+	}
+
+	EarthBadge: {
+		DisplayName: Earth Badge
+		Tooltip: ""
+	}
+
+	SquirtleBadge: {
+		DisplayName: Squirtle Badge
+		Tooltip:
+			'''
+			Equippable
+			*********************
+			Squirtle to fight for you!
+			Skill damage can be increased by the player's handheld weapon
+			'''
+	}
+
+	VigorothMoverPaintingItem: {
+		DisplayName: Vigoroth Mover Painting Item
+		Tooltip: ""
+	}
+
+	PipiJoysAndSorrowsPaintingLiftItem: {
+		DisplayName: Pipi Joys And Sorrows Painting Lift Item
+		Tooltip: ""
+	}
+
+	PipiJoysAndSorrowsPaintingRightItem: {
+		DisplayName: Pipi Joys And Sorrows Painting Right Item
+		Tooltip: ""
+	}
+
+	PichuDollItem: {
+		DisplayName: Pichu Doll Item
+		Tooltip: ""
+	}
+
+	WrapTightlyHookItem: {
+		DisplayName: Wrap Tightly Hook Item
+		Tooltip:
+			'''
+			"Temporarily controls the captured enemy, but it is too tight......
+			Reduces health by 8% per use
+			'''
+	}
+
+	PikachuDollItem: {
+		DisplayName: Pikachu Doll Item
+		Tooltip: ""
+	}
+
+	TogepiDollItem: {
+		DisplayName: Togepi Doll Item
+		Tooltip: ""
+	}
+
+	CyndaquilDollItem: {
+		DisplayName: Cyndaquil Doll Item
+		Tooltip: ""
+	}
+
+	ChikoritaDollItem: {
+		DisplayName: Chikorita Doll Item
+		Tooltip: ""
+	}
+
+	LittleSawCrocodileDollItem: {
+		DisplayName: Little Saw Crocodile Doll Item
+		Tooltip: ""
+	}
+
+	ClefairyDollItem: {
+		DisplayName: Clefairy Doll Item
+		Tooltip: ""
+	}
+
+	DittoDollItem: {
+		DisplayName: Ditto Doll Item
+		Tooltip: ""
+	}
+
+	DuskullDollItem: {
+		DisplayName: Duskull Doll Item
+		Tooltip: ""
+	}
+
+	JigglypuffDollItem: {
+		DisplayName: Jigglypuff Doll Item
+		Tooltip: ""
+	}
+
+	MeowthDollItem: {
+		DisplayName: Meowth Doll Item
+		Tooltip: ""
+	}
+
+	MudkipDollItem: {
+		DisplayName: Mudkip Doll Item
+		Tooltip: ""
+	}
+
+	SmoochumDollItem: {
+		DisplayName: Smoochum Doll Item
+		Tooltip: ""
+	}
+
+	TorchicDollItem: {
+		DisplayName: Torchic Doll Item
+		Tooltip: ""
+	}
+
+	TreeckoDollItem: {
+		DisplayName: Treecko Doll Item
+		Tooltip: ""
+	}
+
+	BaltoyDollItem: {
+		DisplayName: Baltoy Doll Item
+		Tooltip: ""
+	}
+
+	WobbuffetDollItem: {
+		DisplayName: Wobbuffet Doll Item
+		Tooltip: ""
+	}
+
+	AzurillDollItem: {
+		DisplayName: Azurill Doll Item
+		Tooltip: ""
+	}
+
+	KecleonDollItem: {
+		DisplayName: Kecleon Doll Item
+		Tooltip: ""
+	}
+
+	SkittyDollItem: {
+		DisplayName: Skitty Doll Item
+		Tooltip: ""
+	}
+
+	GulpinDollItem: {
+		DisplayName: Gulpin Doll Item
+		Tooltip: ""
+	}
+
+	SwabluDollItem: {
+		DisplayName: Swablu Doll Item
+		Tooltip: ""
+	}
+
+	LotadDollItem: {
+		DisplayName: Lotad Doll Item
+		Tooltip: ""
+	}
+
+	SeedotDollItem: {
+		DisplayName: Seedot Doll Item
+		Tooltip: ""
+	}
+
+	TaillowBadge: {
+		DisplayName: Taillow Badge
+		Tooltip:
+			'''
+			Equippable
+			*********************
+			Taillow to fight for you!
+			Skill damage can be increased by the player's handheld weapon
+			'''
+	}
+
+	Nugget: {
+		DisplayName: Nugget
+		Tooltip: ""
+	}
+
+	Leftovers: {
+		DisplayName: Leftovers
+		Tooltip: ""
+	}
+
+	Expshare: {
+		DisplayName: Expshare
+		Tooltip: ""
+	}
+
+	BerryPouch: {
+		DisplayName: Berry Pouch
+		Tooltip: ""
+	}
+
+	PokeonEggMachineItem: {
+		DisplayName: PokeEgg
+		Tooltip: ""
+	}
+
+	PekemonTicket: {
+		DisplayName: Pekemon Ticket
+		Tooltip: ""
+	}
+
+	PropTicket: {
+		DisplayName: Prop Ticket
+		Tooltip: ""
+	}
+
+	SpoinkBadge: {
+		DisplayName: Spoink Badge
+		Tooltip:
+			'''
+			Equippable
+			*********************
+			Spoink to fight for you!
+			Skill damage can be increased by the player's handheld weapon
+			'''
+	}
+
+	TrainerBackpack: {
+		DisplayName: Trainer Backpack
+		Tooltip: ""
+	}
+
+	Pokeradar: {
+		DisplayName: Pokeradar
+		Tooltip: ""
+	}
+
+	PokeRadar: {
+		DisplayName: Poke Radar
+		Tooltip: ""
+	}
+
+	BeldumBadge: {
+		DisplayName: Beldum Badge
+		Tooltip:
+			'''
+			Equippable
+			*********************
+			Beldum to fight for you!
+			Skill damage can be increased by the player's handheld weapon
+			'''
+	}
+
+	PokemonPackage: {
+		DisplayName: One Package
+		Tooltip: ""
+	}
+
+	ModTicket: {
+		DisplayName: Mod Ticket
+		Tooltip: ""
+	}
+
+	Pokedex: {
+		DisplayName: Pokedex
+		Tooltip: ""
+	}
+
+	WingullBadge: {
+		DisplayName: Wingull Badge
+		Tooltip:
+			'''
+			Equippable
+			*********************
+			Wingull to fight for you!
+			Skill damage can be increased by the player's handheld weapon
+			'''
+	}
+
+	VoltorbBadge: {
+		DisplayName: Voltorb Badge
+		Tooltip:
+			'''
+			Equippable
+			*********************
+			Voltorb to fight for you!
+			Skill damage can be increased by the player's handheld weapon
+			'''
+	}
+
+	MunchlaxBadge: {
+		DisplayName: Munchlax Badge
+		Tooltip:
+			'''
+			Equippable
+			*********************
+			Munchlax to fight for you!
+			Skill damage can be increased by the player's handheld weapon
+			'''
+	}
+
+	PokeBall: {
+		DisplayName: Poke Ball
+		Tooltip:
+			'''
+			A ball used to throw a wild Pokémon and catch it, it is capsule-shaped
+			/*Poké Balls are sent by opening a package, and Mega Balls, Premium Balls, and Master Balls are not yet available for synthesis*/
+			/*If you have a good crafting suggestion or other item suggestion, please feel free to ask! */
+			'''
+	}
+
+	GreatBall: {
+		DisplayName: Great Ball
+		Tooltip: It's easier to catch Pokémon than Poké Balls, and the performance of the ball is pretty good
+	}
+
+	UltraBall: {
+		DisplayName: Ultra Ball
+		Tooltip: It's easier to catch Pokémon than a super ball, and the ball has a very good performance
+	}
+
+	MasterBall: {
+		DisplayName: Master Ball
+		Tooltip: You're sure to catch a wild Pokémon, the best ball
+	}
+
+	LuckPunch: {
+		DisplayName: Luck Punch
+		Tooltip: Hit at the farthest distance is a guaranteed critical hit!
+	}
+
+	BulbasaurWhip: {
+		DisplayName: Bulbasaur Whip
+		Tooltip: ""
+	}
+
+	SquirtleShield: {
+		DisplayName: Squirtle Shield
+		Tooltip:
+			'''
+			Tap the same direction twice in a row to sprint
+			Holding a shield adds 6 points of defense!
+			'''
+	}
+
+	CharmanderSword: {
+		DisplayName: Charmander Sword
+		Tooltip: ""
+	}
+
+	FomantisBadge: {
+		DisplayName: Fomantis Badge
+		Tooltip:
+			'''
+			Equippable
+			*********************
+			Fomantis to fight for you!
+			Skill damage can be increased by the player's handheld weapon
+			'''
+	}
+
+	TrapinchBadge: {
+		DisplayName: Trapinch Badge
+		Tooltip:
+			'''
+			Equippable
+			*********************
+			Trapinch to fight for you!
+			Skill damage can be increased by the player's handheld weapon
+			'''
+	}
+
+	WingullArrow: {
+		DisplayName: Wingull Arrow
+		Tooltip: ""
+	}
+
+	WingullBow: {
+		DisplayName: Wingull Bow
+		Tooltip: ""
+	}
+
+	VoltorbYoyo: {
+		DisplayName: Voltorb Yoyo
+		Tooltip: ""
+	}
+
+	SunflowerBomb: {
+		DisplayName: Sunflower Bomb
+		Tooltip: ""
+	}
+
+	TrapinchGun: {
+		DisplayName: Trapinch Gun
+		Tooltip: ""
+	}
+
+	FlameCrystal: {
+		DisplayName: Flame Crystal
+		Tooltip: ""
+	}
+
+	BattleCrystal: {
+		DisplayName: Battle Crystal
+		Tooltip: ""
+	}
+
+	BugCrystal: {
+		DisplayName: Bug Crystal
+		Tooltip: ""
+	}
+
+	DarkCrystal: {
+		DisplayName: Dark Crystal
+		Tooltip: ""
+	}
+
+	DragonCrystal: {
+		DisplayName: Dragon Crystal
+		Tooltip: ""
+	}
+
+	EarthCrystal: {
+		DisplayName: Earth Crystal
+		Tooltip: ""
+	}
+
+	EmeraldCrystal: {
+		DisplayName: Emerald Crystal
+		Tooltip: ""
+	}
+
+	FairyCrystal: {
+		DisplayName: Fairy Crystal
+		Tooltip: ""
+	}
+
+	FrostCrystal: {
+		DisplayName: Frost Crystal
+		Tooltip: ""
+	}
+
+	GhostCrystal: {
+		DisplayName: Ghost Crystal
+		Tooltip: ""
+	}
+
+	NormalCrystal: {
+		DisplayName: Normal Crystal
+		Tooltip: ""
+	}
+
+	PsychicCrystal: {
+		DisplayName: Psychic Crystal
+		Tooltip: ""
+	}
+
+	RockCrystal: {
+		DisplayName: Rock Crystal
+		Tooltip: ""
+	}
+
+	SkyCrystal: {
+		DisplayName: Sky Crystal
+		Tooltip: ""
+	}
+
+	SteelCrystal: {
+		DisplayName: Steel Crystal
+		Tooltip: ""
+	}
+
+	ThunderCrystal: {
+		DisplayName: Thunder Crystal
+		Tooltip: ""
+	}
+
+	ToxicCrystal: {
+		DisplayName: Toxic Crystal
+		Tooltip: ""
+	}
+
+	WaveCrystal: {
+		DisplayName: Wave Crystal
+		Tooltip: ""
+	}
+
+	FomantisFlyingKnife: {
+		DisplayName: Fomantis Flying Knife
+		Tooltip: ""
+	}
+
+	ShinyCharm: {
+		DisplayName: Shiny Charm
+		Tooltip: ""
+	}
+
+	MunchlaxCushion: {
+		DisplayName: Munchlax Cushion
+		Tooltip: ""
+	}
+
+	TaillowBoomerang: {
+		DisplayName: Taillow Boomerang
+		Tooltip: ""
+	}
+
+	BeldumChainlinkedBall: {
+		DisplayName: Beldum Chainlinked Ball
+		Tooltip: ""
+	}
+
+	GastlyStaff: {
+		DisplayName: Gastly Staff
+		Tooltip: Uses 10 mana
+	}
+
+	PikachuBadge: {
+		DisplayName: Pikachu Badge
+		Tooltip: ""
+	}
+
+	PichuElectricSphere: {
+		DisplayName: Pichu Electric Sphere
+		Tooltip: Uses 10 mana
+	}
+
+	PikachuStaff: {
+		DisplayName: Pikachu Staff
+		Tooltip: Uses 10 mana
+	}
+
+	AshKetchumBody: {
+		DisplayName: Ash's Jacket
+		Tooltip: ""
+	}
+
+	AshKetchumHead: {
+		DisplayName: Ash's Cap
+		Tooltip: ""
+	}
+
+	AshKetchumLegs: {
+		DisplayName: Ash's Sneakers
+		Tooltip: ""
+	}
+
+	ProfessorSamuelOakBody: {
+		DisplayName: Professor Oak's Coat
+		Tooltip: ""
+	}
+
+	ProfessorSamuelOakHead: {
+		DisplayName: Professor Oak's Mask
+		Tooltip: ""
+	}
+
+	ButterfreeWings: {
+		DisplayName: Butterfree Wings
+		Tooltip: ""
+	}
+
+	OnixClub: {
+		DisplayName: Onix Club
+		Tooltip: ""
+	}
+
+	OnixClub_W: {
+		DisplayName: Crystal Onix Club
+		Tooltip: ""
+	}
+
+	SprigatitoSpellbook: {
+		DisplayName: Sprigatito Spellbook
+		Tooltip: ""
+	}
+
+	SprigatitoBadge: {
+		DisplayName: Sprigatito Badge
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	SunflowerProj1.DisplayName: Sunflower Proj1
+	SunflowerProj2.DisplayName: Sunflower Proj2
+	SunflowerProj3.DisplayName: Sunflower Proj3
+	SunflowerProj4.DisplayName: Sunflower Proj4
+	SunflowerProj5.DisplayName: Sunflower Proj5
+	SunflowerProj6.DisplayName: Sunflower Proj6
+	GastlyBadgeProj1.DisplayName: Gastly Badge Proj1
+	ForcedExerciserProj1.DisplayName: Forced Exerciser Proj1
+	MagicCandyProj1.DisplayName: Magic Candy Proj1
+	GastlyBadgeProj2.DisplayName: Gastly Badge Proj2
+	GastlyBadgeProj3.DisplayName: Gastly Badge Proj3
+	GastlyBadgeProj4.DisplayName: Gastly Badge Proj4
+	GastlyBadgeProj5.DisplayName: Gastly Badge Proj5
+	GastlyBadgeProj6.DisplayName: Gastly Badge Proj6
+	GastlyBadgeProj7.DisplayName: Gastly Badge Proj7
+	GastlyBadgeProj8.DisplayName: Gastly Badge Proj8
+	CharmanderBadgeProj1.DisplayName: Charmander Badge Proj1
+	CharmanderBadgeProj2.DisplayName: Charmander Badge Proj2
+	CharmanderBadgeProj3.DisplayName: Charmander Badge Proj3
+	CharmanderBadgeProj4.DisplayName: Charmander Badge Proj4
+	CharmanderBadgeProj5.DisplayName: Charmander Badge Proj5
+	CharmanderBadgeProj6.DisplayName: Charmander Badge Proj6
+	BulbasaurBadgeProj1.DisplayName: Bulbasaur Badge Proj1
+	BulbasaurBadgeProj2.DisplayName: Bulbasaur Badge Proj2
+	BulbasaurBadgeProj3.DisplayName: Bulbasaur Badge Proj3
+	BulbasaurBadgeProj4.DisplayName: Bulbasaur Badge Proj4
+	BulbasaurBadgeProj5.DisplayName: Bulbasaur Badge Proj5
+	BulbasaurBadgeProj6.DisplayName: Bulbasaur Badge Proj6
+	BulbasaurBadgeProj7.DisplayName: Bulbasaur Badge Proj7
+	BulbasaurBadgeProj8.DisplayName: Bulbasaur Badge Proj8
+	BulbasaurBadgeProj10.DisplayName: Bulbasaur Badge Proj10
+	BulbasaurBadgeProj9.DisplayName: Bulbasaur Badge Proj9
+	BoulderBadgeProj1.DisplayName: Boulder Badge Proj1
+	CascadeBadgeProj1.DisplayName: Cascade Badge Proj1
+	EarthBadgeProj1.DisplayName: Earth Badge Proj1
+	MarshBadgeProj1.DisplayName: Marsh Badge Proj1
+	RainbowBadgeProj1.DisplayName: Rainbow Badge Proj1
+	SoulBadgeProj1.DisplayName: Soul Badge Proj1
+	ThunderBadgeProj1.DisplayName: Thunder Badge Proj1
+	VolcanoBadgeProj1.DisplayName: Volcano Badge Proj1
+	SquirtleProj1.DisplayName: Squirtle Proj1
+	SquirtleProj2.DisplayName: Squirtle Proj2
+	SquirtleProj3.DisplayName: Squirtle Proj3
+	SquirtleProj4.DisplayName: Squirtle Proj4
+	SquirtleProj5.DisplayName: Squirtle Proj5
+	WrapTightlyHookProj.DisplayName: Wrap Tightly Hook Proj
+	TaillowBadgeProj1.DisplayName: Taillow Badge Proj1
+	TaillowBadgeProj2.DisplayName: Taillow Badge Proj2
+	TaillowBadgeProj3.DisplayName: Taillow Badge Proj3
+	TaillowBadgeProj4.DisplayName: Taillow Badge Proj4
+	TaillowBadgeProj5.DisplayName: Taillow Badge Proj5
+	TaillowBadgeProj6.DisplayName: Taillow Badge Proj6
+	SpoinkBadgeProj1.DisplayName: Spoink Badge Proj1
+	SpoinkBadgeProj2.DisplayName: Spoink Badge Proj2
+	SpoinkBadgeProj3.DisplayName: Spoink Badge Proj3
+	SpoinkBadgeProj4.DisplayName: Spoink Badge Proj4
+	SpoinkBadgeProj5.DisplayName: Spoink Badge Proj5
+	BeldumBadgeProj1.DisplayName: Beldum Badge Proj1
+	BeldumBadgeProj2.DisplayName: Beldum Badge Proj2
+	BeldumBadgeProj3.DisplayName: Beldum Badge Proj3
+	BeldumBadgeProj4.DisplayName: Beldum Badge Proj4
+	BeldumBadgeProj5.DisplayName: Beldum Badge Proj5
+	BeldumBadgeProj6.DisplayName: Beldum Badge Proj6
+	BeldumBadgeProj7.DisplayName: Beldum Badge Proj7
+	WingullBadgeProj1.DisplayName: Wingull Badge Proj1
+	WingullBadgeProj2.DisplayName: Wingull Badge Proj2
+	WingullBadgeProj3.DisplayName: Wingull Badge Proj3
+	WingullBadgeProj4.DisplayName: Wingull Badge Proj4
+	WingullBadgeProj5.DisplayName: Wingull Badge Proj5
+	WingullBadgeProj6.DisplayName: Wingull Badge Proj6
+	VoltorbBadgeProj1.DisplayName: Voltorb Badge Proj1
+	VoltorbBadgeProj2.DisplayName: Voltorb Badge Proj2
+	VoltorbBadgeProj3.DisplayName: Voltorb Badge Proj3
+	VoltorbBadgeProj4.DisplayName: Voltorb Badge Proj4
+	VoltorbBadgeProj5.DisplayName: Voltorb Badge Proj5
+	VoltorbBadgeProj6.DisplayName: Voltorb Badge Proj6
+	MunchlaxProj1.DisplayName: Munchlax Proj1
+	MunchlaxProj2.DisplayName: Munchlax Proj2
+	MunchlaxProj3.DisplayName: Munchlax Proj3
+	MunchlaxProj4.DisplayName: Munchlax Proj4
+	MunchlaxProj5.DisplayName: Munchlax Proj5
+	ExperienceOrb.DisplayName: Experience Orb
+	PokeBallProj.DisplayName: Poke Ball Proj
+	GreatBallProj.DisplayName: Great Ball Proj
+	UltraBallProj.DisplayName: Ultra Ball Proj
+	MasterBallProj.DisplayName: Master Ball Proj
+	LuckPunchProj.DisplayName: Luck Punch Proj
+	BulbasaurWhipProj.DisplayName: Bulbasaur Whip Proj
+	SquirtleShieldProj.DisplayName: Squirtle Shield Proj
+	CharmanderSwordProj.DisplayName: Charmander Sword Proj
+	CharmanderSwordProj_.DisplayName: Charmander Sword Proj_
+	BlankProj1.DisplayName: Blank Proj1
+	FomantisBadgeProj1.DisplayName: Fomantis Badge Proj1
+	FomantisBadgeProj2.DisplayName: Fomantis Badge Proj2
+	FomantisBadgeProj3.DisplayName: Fomantis Badge Proj3
+	FomantisBadgeProj4.DisplayName: Fomantis Badge Proj4
+	FomantisBadgeProj4_.DisplayName: Fomantis Badge Proj4_
+	FomantisBadgeProj5.DisplayName: Fomantis Badge Proj5
+	TrapinchBadgeProj1.DisplayName: Trapinch Badge Proj1
+	TrapinchBadgeProj2.DisplayName: Trapinch Badge Proj2
+	TrapinchBadgeProj3.DisplayName: Trapinch Badge Proj3
+	TrapinchBadgeProj3_.DisplayName: Trapinch Badge Proj3_
+	TrapinchBadgeProj4.DisplayName: Trapinch Badge Proj4
+	TrapinchBadgeProj5.DisplayName: Trapinch Badge Proj5
+	TrapinchBadgeProj5_.DisplayName: Trapinch Badge Proj5_
+	WingullArrowProj.DisplayName: Wingull Arrow Proj
+	VoltorbYoyoProj.DisplayName: Voltorb Yoyo Proj
+	VoltorbYoyoProj_.DisplayName: Voltorb Yoyo Proj_
+	SunflowerBombProj.DisplayName: Sunflower Bomb Proj
+	TrapinchGunProj.DisplayName: Trapinch Gun Proj
+	TrapinchGunProj_.DisplayName: Trapinch Gun Proj_
+	FomantisFlyingKnifeProj.DisplayName: Fomantis Flying Knife Proj
+	WingullBowProj.DisplayName: Wingull Bow Proj
+	MunchlaxCushionProj.DisplayName: Munchlax Cushion Proj
+	TaillowBadgeBoomerangProj.DisplayName: Taillow Badge Boomerang Proj
+	TaillowBadgeBoomerangProj_.DisplayName: Taillow Badge Boomerang Proj_
+	TaillowBoomerangProj.DisplayName: Taillow Boomerang Proj
+	TaillowBoomerangProj_.DisplayName: Taillow Boomerang Proj_
+	BeldumChainlinkedBallProj.DisplayName: Beldum Chainlinked Ball Proj
+	BeldumChainlinkedBallProj_.DisplayName: Beldum Chainlinked Ball Proj_
+	GastlyStaffProj.DisplayName: Gastly Staff Proj
+	GastlyStaffProj_.DisplayName: Gastly Staff Proj_
+	PikachuBadgeProj1.DisplayName: Pikachu Badge Proj1
+	PikachuBadgeProj2.DisplayName: Pikachu Badge Proj2
+	PikachuBadgeProj3.DisplayName: Pikachu Badge Proj3
+	PikachuBadgeProj5.DisplayName: Pikachu Badge Proj5
+	PichuElectricSphereProj.DisplayName: Pichu Electric Sphere Proj
+	PichuElectricSphereProj_.DisplayName: Pichu Electric Sphere Proj_
+	PikachuElectricSphereProj_.DisplayName: Pikachu Electric Sphere Proj_
+	PikachuStaffProj.DisplayName: Pikachu Staff Proj
+	OnixClubProj.DisplayName: Onix Club Proj
+	OnixClub_.DisplayName: Onix Club_
+	OnixClub__W.DisplayName: Onix Club__ W
+	OnixClubProj_W.DisplayName: Onix Club Proj_ W
+	SprigatitoSpellbookProj.DisplayName: Sprigatito Spellbook Proj
+	SprigatitoSpellbookProj_S.DisplayName: Sprigatito Spellbook Proj_ S
+	SprigatitoSpellbookProj_H.DisplayName: Sprigatito Spellbook Proj_ H
+	SprigatitoBadgeProj1.DisplayName: Sprigatito Badge Proj1
+	Beedrill_MegaProj_Flying.DisplayName: Beedrill_ Mega Proj_ Flying
+	Beedrill_MegaProj_Poison.DisplayName: Beedrill_ Mega Proj_ Poison
+	MiniBeedrillProj.DisplayName: Mini Beedrill Proj
+	Beedrill_MegaProj_Tail.DisplayName: Beedrill_ Mega Proj_ Tail
+}
+
+DamageClasses: {
+	PokemonDamageClass.DisplayName: pokemon damage
+	PokeBallDamageClass.DisplayName: capture damage
+}
+
+Keybinds: {
+	OpenBerryPouch.DisplayName: Open Berry Pouch
+	树果袋存放快捷.DisplayName: 树果袋存放快捷
+	树果袋快捷存放.DisplayName: 树果袋快捷存放
+	宝可梦雷达快捷存放.DisplayName: 宝可梦雷达快捷存放
+	"Berry Pouch Quick-Deposit.DisplayName": Berry  Pouch  Quick- Deposit
+}
+
+NPCs: {
+	BeldumNPC.DisplayName: Beldum
+	Bulbasaur.DisplayName: Bulbasaur
+	Charmander.DisplayName: Charmander
+	Gastly.DisplayName: Gastly
+	Munchlax.DisplayName: Munchlax
+	Spoink.DisplayName: Spoink
+	Squirtle.DisplayName: Squirtle
+	Sunflower.DisplayName: Sunflower
+	Taillow.DisplayName: Taillow
+	Voltorb.DisplayName: Voltorb
+	Wingull.DisplayName: Wingull
+	Fomantis.DisplayName: Fomantis
+	Trapinch.DisplayName: Trapinch
+	Pikachu.DisplayName: Pikachu
+
+	ProfessorSamuelOak: {
+		DisplayName: Professor Samuel Oak
+
+		TownNPCMood: {
+			Content: 我很满足。
+			NoHome: 我讨厌没有家。
+			FarFromHome: 我离家太远了。
+			LoveSpace: 我非常喜欢有这么大的空间。
+			DislikeCrowded: 我不喜欢这么拥挤。
+			HateCrowded: 我讨厌这么拥挤。
+			LikeBiome: 我喜欢{BiomeName}。
+			DislikeBiome: 我不喜欢{BiomeName}。
+			LoveNPC: 我非常喜欢{NPCName}。
+			LikeNPC: 我喜欢{NPCName}。
+			DislikeNPC: 我不喜欢{NPCName}。
+			HateNPC: 我讨厌{NPCName}。
+			LikeNPC_Princess: 我喜欢 {NPCName}。
+			Princess_LovesNPC: 我喜欢 {NPCName}。
+		}
+
+		Census.SpawnCondition: Conditions unknown
+	}
+
+	Beedrill_Mega.DisplayName: Beedrill_ Mega
+	MiniBeedrill.DisplayName: Mini Beedrill
+}

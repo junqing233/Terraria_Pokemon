@@ -1,0 +1,1050 @@
+Buffs: {
+	BuffsSunflowerBall: {
+		DisplayName: 向日种子
+		Description: 向日种子将为你而战！
+	}
+
+	BuffsSunflowerProj3: {
+		DisplayName: Buffs Sunflower Proj3
+		Description: Mods.Pokemon.Buffs.BuffsSunflowerProj3.Description
+	}
+
+	BuffsGastlyBadge: {
+		DisplayName: 鬼斯
+		Description: 鬼斯将为你而战！
+	}
+
+	BuffsGastlyBadgeProj7: {
+		// DisplayName: Buffs Gastly Badge Proj7
+		// Description: Mods.Pokemon.Buffs.BuffsGastlyBadgeProj7.Description
+	}
+
+	BuffsCharmanderBadge: {
+		DisplayName: 小火龙
+		Description: 小火龙将为你而战！
+	}
+
+	BuffsCharmanderBadgeProj6: {
+		DisplayName: 剑舞
+		Description:
+			'''
+			"激烈地跳起战舞提高气势"
+			攻击提高20%
+			'''
+	}
+
+	BuffsBulbasaurBadge: {
+		DisplayName: 妙蛙种子
+		Description: 妙蛙种子将为你而战！
+	}
+
+	BuffsSquirtleBadge: {
+		DisplayName: 杰尼龟
+		Description: 杰尼龟将为你而战！
+	}
+
+	BuffsSquirtleBadgeProj3: {
+		// DisplayName: Buffs Squirtle Badge Proj3
+		// Description: Mods.Pokemon.Buffs.BuffsSquirtleBadgeProj3.Description
+	}
+
+	BuffsTogepiDoll: {
+		DisplayName: 波克比的幸福能量
+		Description:
+			'''
+			“它会把大家感受到的温情和喜悦都转化
+			为幸福，据说在它的壳里装着满满的幸福”
+			'''
+	}
+
+	BuffsTaillowBadge: {
+		DisplayName: 傲骨燕
+		Description: 傲骨燕将为你而战！
+	}
+
+	BuffsSpoinkBadge: {
+		DisplayName: 跳跳猪
+		Description: 跳跳猪将为你而战！
+	}
+
+	BuffsBeldumBadge: {
+		DisplayName: 铁哑铃
+		Description: 铁哑铃将为你而战！
+	}
+
+	BuffsBeldumBadgeProj7: {
+		DisplayName: 铁壁
+		Description:
+			'''
+			"将皮肤变得坚硬如铁"
+			防御提高20%
+			'''
+	}
+
+	BuffsWingullBadge: {
+		DisplayName: 长翅鸥
+		Description: 长翅鸥将为你而战！
+	}
+
+	BuffsWingull_invis: {
+		DisplayName: 白雾
+		Description:
+			'''
+			"你进入了白雾之中……"
+			玩家变成烟雾，清除所有来自敌人的减益效果并持续恢复生命值
+			玩家无法使用物品，敌人无法锁定和攻击玩家
+			'''
+	}
+
+	BuffsVoltorbBadge: {
+		DisplayName: 雷电球
+		Description: 雷电球将为你而战！
+	}
+
+	BuffsMunchlaxBadge: {
+		DisplayName: 小卡比兽
+		Description: 小卡比兽将为你而战！
+	}
+
+	WhipAdvancedDebuff: {
+		// DisplayName: Whip Advanced Debuff
+		// Description: Mods.Pokemon.Buffs.WhipAdvancedDebuff.Description
+	}
+
+	WhipDebuff: {
+		// DisplayName: Whip Debuff
+		// Description: Mods.Pokemon.Buffs.WhipDebuff.Description
+	}
+
+	BuffsSquirtleShield: {
+		DisplayName: 杰尼龟壳盾
+		Description: 增加6点防御力
+	}
+
+	BuffsFomantisBadge: {
+		DisplayName: 伪螳草
+		Description: 伪螳草将为你而战！
+	}
+
+	BuffsTrapinchBadge: {
+		DisplayName: 大颚蚁
+		Description: 大颚蚁将为你而战！
+	}
+
+	BuffsPikachuBadge: {
+		DisplayName: 皮卡丘
+		Description: 皮卡丘将为你为战！
+	}
+
+	BuffsSprigatitoSpellbook: {
+		DisplayName: 新叶魔法
+		Description: 移动速度提高100%
+	}
+
+	BuffsSprigatitoBadge: {
+		// DisplayName: Buffs Sprigatito Badge
+		// Description: Mods.Pokemon.Buffs.BuffsSprigatitoBadge.Description
+	}
+}
+
+Items: {
+	SunflowerBall: {
+		DisplayName: 向日种子徽章
+		Tooltip:
+			'''
+			可装备
+			*********************
+			召唤向日种子为你而战！
+			技能伤害可受玩家手持武器加成
+			'''
+	}
+
+	GastlyBadge: {
+		DisplayName: 鬼斯徽章
+		Tooltip:
+			'''
+			可装备
+			*********************
+			召唤鬼斯为你而战！
+			技能伤害可受玩家手持武器加成
+			'''
+	}
+
+	ForcedExerciser: {
+		DisplayName: 强制锻炼器
+		// Tooltip: ""
+	}
+
+	MagicCandy: {
+		DisplayName: 神奇糖果
+		// Tooltip: ""
+	}
+
+	CharmanderBadge: {
+		DisplayName: 小火龙徽章
+		Tooltip:
+			'''
+			可装备
+			*********************
+			召唤小火龙为你而战！
+			技能伤害可受玩家手持武器加成
+			'''
+	}
+
+	BulbasaurBadge: {
+		DisplayName: 妙蛙种子徽章
+		Tooltip:
+			'''
+			可装备
+			*********************
+			召唤妙蛙种子为你而战！
+			技能伤害可受玩家手持武器加成
+			'''
+	}
+
+	TrainerGoldCard: {
+		DisplayName: 训练师金卡
+		// Tooltip: ""
+	}
+
+	BoulderBadge: {
+		DisplayName: 灰色徽章
+		// Tooltip: ""
+	}
+
+	CascadeBadge: {
+		DisplayName: 蓝色徽章
+		// Tooltip: ""
+	}
+
+	ThunderBadge: {
+		DisplayName: 橙色徽章
+		// Tooltip: ""
+	}
+
+	RainbowBadge: {
+		DisplayName: 彩虹徽章
+		// Tooltip: ""
+	}
+
+	MarshBadge: {
+		DisplayName: 粉红徽章
+		// Tooltip: ""
+	}
+
+	SoulBadge: {
+		DisplayName: 黄金徽章
+		// Tooltip: ""
+	}
+
+	VolcanoBadge: {
+		DisplayName: 深红徽章
+		// Tooltip: ""
+	}
+
+	EarthBadge: {
+		DisplayName: 绿色徽章
+		// Tooltip: ""
+	}
+
+	SquirtleBadge: {
+		DisplayName: 杰尼龟徽章
+		Tooltip:
+			'''
+			可装备
+			*********************
+			召唤杰尼龟为你而战！
+			技能伤害可受玩家手持武器加成
+			'''
+	}
+
+	VigorothMoverPaintingItem: {
+		DisplayName: 过动猿搬家公司
+		Tooltip: “勤劳的工人在工作……”
+	}
+
+	PipiJoysAndSorrowsPaintingLiftItem: {
+		DisplayName: 糖果云端的悲喜/左幅
+		Tooltip: “( > <)我右半边呢？”
+	}
+
+	PipiJoysAndSorrowsPaintingRightItem: {
+		DisplayName: 糖果云端的悲喜/右幅
+		Tooltip: “(> < )我左半边呢？”
+	}
+
+	PichuDollItem: {
+		DisplayName: 皮丘玩偶
+		Tooltip: “皮~丘？”
+	}
+
+	WrapTightlyHookItem: {
+		DisplayName: 紧缠钩爪
+		Tooltip:
+			'''
+			“短暂控制住被抓中的敌人，不过它缠得太紧了……”
+			每次使用减少8%生命值
+			'''
+	}
+
+	PikachuDollItem: {
+		DisplayName: 皮卡丘玩偶
+		Tooltip: “皮卡~丘？”
+	}
+
+	TogepiDollItem: {
+		DisplayName: 波克比玩偶
+		Tooltip:
+			'''
+			“波克比玩偶是好运的象征，如果能温柔
+			对待它，它就会把幸运分给对方”
+			'''
+	}
+
+	CyndaquilDollItem: {
+		DisplayName: 火球鼠玩偶
+		Tooltip: “城都地区和洗翠地区最初的伙伴……玩偶？”
+	}
+
+	ChikoritaDollItem: {
+		DisplayName: 菊草叶玩偶
+		Tooltip: “城都地区最初的伙伴……玩偶？”
+	}
+
+	LittleSawCrocodileDollItem: {
+		DisplayName: 小锯鳄玩偶
+		Tooltip: “城都地区最初的伙伴……玩偶？”
+	}
+
+	ClefairyDollItem: {
+		DisplayName: 皮皮玩偶
+		Tooltip: “在满月时才能见到的可爱玩偶”
+	}
+
+	DittoDollItem: {
+		DisplayName: 百变怪玩偶
+		Tooltip: “玩偶困了，变成石头吧……”
+	}
+
+	DuskullDollItem: {
+		DisplayName: 夜巡灵玩偶
+		Tooltip:
+			'''
+			“不听话的小孩，夜巡灵会在深夜
+			拜访你……哈哈，这只是个玩偶，别害怕”
+			'''
+	}
+
+	JigglypuffDollItem: {
+		DisplayName: 胖丁玩偶
+		Tooltip: “昏昏欲睡起来了啊……”
+	}
+
+	MeowthDollItem: {
+		DisplayName: 喵喵玩偶
+		Tooltip:
+			'''
+			“喜欢圆圆的，硬币之类的而不是
+			红色鼻子的东西……”
+			'''
+	}
+
+	MudkipDollItem: {
+		DisplayName: 水跃鱼玩偶
+		Tooltip: “丰缘地区最初的伙伴……玩偶？”
+	}
+
+	SmoochumDollItem: {
+		DisplayName: 迷唇娃玩偶
+		Tooltip: “好奇心旺盛的可爱宝可梦玩偶”
+	}
+
+	TorchicDollItem: {
+		DisplayName: 火稚鸡玩偶
+		Tooltip: “丰缘地区最初的伙伴……玩偶？”
+	}
+
+	TreeckoDollItem: {
+		DisplayName: 木守宫玩偶
+		Tooltip: “丰缘地区最初的伙伴……玩偶？”
+	}
+
+	BaltoyDollItem: {
+		DisplayName: 天秤偶玩偶
+		Tooltip: “出现在古代遗迹里的珍奇宝可梦玩偶”
+	}
+
+	WobbuffetDollItem: {
+		DisplayName: 小果然玩偶
+		Tooltip: “是很耐揍的小果然玩偶耶！”
+	}
+
+	AzurillDollItem: {
+		DisplayName: 露力丽玩偶
+		Tooltip: “一只蓝色的水鼠玩偶，卡哇伊！”
+	}
+
+	KecleonDollItem: {
+		DisplayName: 变隐龙玩偶
+		Tooltip: “能够让身体颜色配合周围景色变化之能力的宝可梦玩偶”
+	}
+
+	SkittyDollItem: {
+		DisplayName: 向尾喵玩偶
+		Tooltip: “可爱的猫猫宝可梦玩偶，很受训练师群体的欢迎”
+	}
+
+	GulpinDollItem: {
+		DisplayName: 溶食兽玩偶
+		Tooltip: “绿色水滴状宝可梦的玩偶”
+	}
+
+	SwabluDollItem: {
+		DisplayName: 青绵鸟玩偶
+		Tooltip: “一顶绵帽子？别开玩笑了！”
+	}
+
+	LotadDollItem: {
+		DisplayName: 莲叶童子玩偶
+		Tooltip: “居住在水面清澈的池塘里的酷似水草的宝可梦玩偶”
+	}
+
+	SeedotDollItem: {
+		DisplayName: 橡实果玩偶
+		Tooltip: “可爱的橡子玩偶”
+	}
+
+	TaillowBadge: {
+		DisplayName: 傲骨燕徽章
+		Tooltip:
+			'''
+			可装备
+			*********************
+			召唤傲骨燕为你而战！
+			技能伤害可受玩家手持武器加成
+			'''
+	}
+
+	Nugget: {
+		DisplayName: 金珠
+		// Tooltip: ""
+	}
+
+	Leftovers: {
+		DisplayName: 吃剩的东西
+		// Tooltip: ""
+	}
+
+	Expshare: {
+		DisplayName: 学习装置
+		// Tooltip: ""
+	}
+
+	BerryPouch: {
+		DisplayName: 树果袋
+		// Tooltip: ""
+	}
+
+	PokeonEggMachineItem: {
+		DisplayName: 宝可蛋
+		// Tooltip: ""
+	}
+
+	PekemonTicket: {
+		DisplayName: 宝可梦奖券
+		// Tooltip: ""
+	}
+
+	PropTicket: {
+		DisplayName: 道具奖券
+		// Tooltip: ""
+	}
+
+	SpoinkBadge: {
+		DisplayName: 跳跳猪徽章
+		Tooltip:
+			'''
+			可装备
+			*********************
+			召唤跳跳猪为你而战！
+			技能伤害可受玩家手持武器加成
+			'''
+	}
+
+	TrainerBackpack: {
+		// DisplayName: Trainer Backpack
+		// Tooltip: ""
+	}
+
+	Pokeradar: {
+		// DisplayName: Pokeradar
+		// Tooltip: ""
+	}
+
+	PokeRadar: {
+		DisplayName: 宝可梦战斗仪
+		// Tooltip: ""
+	}
+
+	BeldumBadge: {
+		DisplayName: 铁哑铃徽章
+		Tooltip:
+			'''
+			可装备
+			*********************
+			召唤铁哑铃为你而战！
+			技能伤害可受玩家手持武器加成
+			'''
+	}
+
+	PokemonPackage: {
+		DisplayName: 一份包裹
+		// Tooltip: ""
+	}
+
+	ModTicket: {
+		DisplayName: 模组奖券
+		// Tooltip: ""
+	}
+
+	Pokedex: {
+		DisplayName: 宝可梦图鉴
+		// Tooltip: ""
+	}
+
+	WingullBadge: {
+		DisplayName: 长翅鸥
+		Tooltip:
+			'''
+			可装备
+			*********************
+			召唤长翅鸥为你而战！
+			技能伤害可受玩家手持武器加成
+			'''
+	}
+
+	VoltorbBadge: {
+		DisplayName: 雷电球
+		Tooltip:
+			'''
+			可装备
+			*********************
+			召唤雷电球为你而战！
+			技能伤害可受玩家手持武器加成
+			'''
+	}
+
+	MunchlaxBadge: {
+		DisplayName: 小卡比兽
+		Tooltip:
+			'''
+			可装备
+			*********************
+			召唤小卡比兽为你而战！
+			技能伤害可受玩家手持武器加成
+			'''
+	}
+
+	PokeBall: {
+		DisplayName: 精灵球
+		Tooltip:
+			'''
+			用于投向野生宝可梦并将其捕捉的球，它是胶囊样式的
+			/*合成未完善*/
+			'''
+	}
+
+	GreatBall: {
+		DisplayName: 超级球
+		Tooltip:
+			'''
+			比起精灵球来更容易捉到宝可梦的，性能还算不错的球
+			/*合成未完善*/
+			'''
+	}
+
+	UltraBall: {
+		DisplayName: 高级球
+		Tooltip:
+			'''
+			比起超级球来更容易捉到宝可梦的，性能非常不错的球
+			/*合成未完善*/
+			'''
+	}
+
+	MasterBall: {
+		DisplayName: 大师球
+		Tooltip:
+			'''
+			必定能捉到野生宝可梦的，性能最好的球
+			/*合成未完善*/
+			'''
+	}
+
+	LuckPunch: {
+		DisplayName: 吉利拳
+		Tooltip: 最远处击中必定暴击！
+	}
+
+	BulbasaurWhip: {
+		DisplayName: 妙蛙子鞭
+		// Tooltip: ""
+	}
+
+	SquirtleShield: {
+		DisplayName: 杰尼盾
+		Tooltip:
+			'''
+			双击冲刺
+			手持盾牌增加6点防御！
+			'''
+	}
+
+	CharmanderSword: {
+		DisplayName: 小火龙剑
+		// Tooltip: ""
+	}
+
+	FomantisBadge: {
+		DisplayName: 伪螳草徽章
+		Tooltip:
+			'''
+			可装备
+			*********************
+			召唤伪螳草为你而战！
+			技能伤害可受玩家手持武器加成
+			'''
+	}
+
+	TrapinchBadge: {
+		DisplayName: 大颚蚁徽章
+		Tooltip:
+			'''
+			可装备
+			*********************
+			召唤大颚蚁为你而战！
+			技能伤害可受玩家手持武器加成
+			'''
+	}
+
+	WingullArrow: {
+		DisplayName: 长翅羽箭
+		// Tooltip: ""
+	}
+
+	WingullBow: {
+		DisplayName: 长翅鸥弓
+		// Tooltip: ""
+	}
+
+	VoltorbYoyo: {
+		DisplayName: 悠悠雷电球
+		// Tooltip: ""
+	}
+
+	SunflowerBomb: {
+		DisplayName: 向日种子爆破弹
+		// Tooltip: ""
+	}
+
+	TrapinchGun: {
+		DisplayName: 颚蚁枪
+		// Tooltip: ""
+	}
+
+	FlameCrystal: {
+		DisplayName: 烈焰晶
+		// Tooltip: ""
+	}
+
+	BattleCrystal: {
+		DisplayName: 战意晶
+		// Tooltip: ""
+	}
+
+	BugCrystal: {
+		DisplayName: 虫翼晶
+		// Tooltip: ""
+	}
+
+	DarkCrystal: {
+		DisplayName: 暗影晶
+		// Tooltip: ""
+	}
+
+	DragonCrystal: {
+		DisplayName: 龙息晶
+		// Tooltip: ""
+	}
+
+	EarthCrystal: {
+		DisplayName: 岩土晶
+		// Tooltip: ""
+	}
+
+	EmeraldCrystal: {
+		DisplayName: 森语晶
+		// Tooltip: ""
+	}
+
+	FairyCrystal: {
+		DisplayName: 幻彩晶
+		// Tooltip: ""
+	}
+
+	FrostCrystal: {
+		DisplayName: 寒冰晶
+		// Tooltip: ""
+	}
+
+	GhostCrystal: {
+		DisplayName: 幽冥晶
+		// Tooltip: ""
+	}
+
+	NormalCrystal: {
+		DisplayName: 普通晶
+		// Tooltip: ""
+	}
+
+	PsychicCrystal: {
+		DisplayName: 灵力晶
+		// Tooltip: ""
+	}
+
+	RockCrystal: {
+		DisplayName: 坚石晶
+		// Tooltip: ""
+	}
+
+	SkyCrystal: {
+		DisplayName: 翔空晶
+		// Tooltip: ""
+	}
+
+	SteelCrystal: {
+		DisplayName: 钢心晶
+		// Tooltip: ""
+	}
+
+	ThunderCrystal: {
+		DisplayName: 雷电晶
+		// Tooltip: ""
+	}
+
+	ToxicCrystal: {
+		DisplayName: 剧毒晶
+		// Tooltip: ""
+	}
+
+	WaveCrystal: {
+		DisplayName: 碧澜晶
+		// Tooltip: ""
+	}
+
+	FomantisFlyingKnife: {
+		DisplayName: 伪螳飞刀
+		// Tooltip: ""
+	}
+
+	ShinyCharm: {
+		DisplayName: 闪光护符
+		Tooltip:
+			'''
+			虽然你可能不会遇到异色宝可梦，
+			但是你脑袋绝对是最闪闪发光的那个
+			'''
+	}
+
+	MunchlaxCushion: {
+		DisplayName: 卡比兽抱枕
+		// Tooltip: ""
+	}
+
+	TaillowBoomerang: {
+		DisplayName: 傲骨燕旋镖
+		// Tooltip: ""
+	}
+
+	BeldumChainlinkedBall: {
+		DisplayName: 铁哑链铃
+		// Tooltip: ""
+	}
+
+	GastlyStaff: {
+		DisplayName: 鬼斯法杖
+		Tooltip: 使用10魔力
+	}
+
+	PikachuBadge: {
+		DisplayName: 皮卡丘徽章
+		Tooltip:
+			'''
+			可装备
+			*********************
+			召唤皮卡丘为你而战！
+			技能伤害可受玩家手持武器加成
+			'''
+	}
+
+	PichuElectricSphere: {
+		DisplayName: 皮丘电球
+		Tooltip: 使用10魔力
+	}
+
+	PikachuStaff: {
+		DisplayName: 皮卡丘之尾
+		Tooltip: 使用2魔力
+	}
+
+	AshKetchumBody: {
+		DisplayName: 小智同款夹克
+		// Tooltip: ""
+	}
+
+	AshKetchumHead: {
+		DisplayName: 小智联盟帽
+		// Tooltip: ""
+	}
+
+	AshKetchumLegs: {
+		DisplayName: 小智同款裤装
+		// Tooltip: ""
+	}
+
+	ProfessorSamuelOakBody: {
+		DisplayName: 大木博士外套
+		// Tooltip: ""
+	}
+
+	ProfessorSamuelOakHead: {
+		DisplayName: 大木博士面具
+		// Tooltip: ""
+	}
+
+	ButterfreeWings: {
+		DisplayName: 蝶之翼
+		// Tooltip: ""
+	}
+
+	OnixClub: {
+		DisplayName: 岩蛇大棍
+		// Tooltip: ""
+	}
+
+	OnixClub_W: {
+		DisplayName: 水晶岩蛇大棍
+		// Tooltip: ""
+	}
+
+	SprigatitoSpellbook: {
+		DisplayName: 新叶魔法书
+		Tooltip: 使用10魔力
+	}
+
+	SprigatitoBadge: {
+		// DisplayName: Sprigatito Badge
+		// Tooltip: ""
+	}
+}
+
+Projectiles: {
+	SunflowerProj1.DisplayName: Sunflower Proj1
+	SunflowerProj2.DisplayName: Sunflower Proj2
+	SunflowerProj3.DisplayName: Sunflower Proj3
+	SunflowerProj4.DisplayName: Sunflower Proj4
+	SunflowerProj5.DisplayName: Sunflower Proj5
+	SunflowerProj6.DisplayName: Sunflower Proj6
+	// GastlyBadgeProj1.DisplayName: Gastly Badge Proj1
+	// ForcedExerciserProj1.DisplayName: Forced Exerciser Proj1
+	// MagicCandyProj1.DisplayName: Magic Candy Proj1
+	// GastlyBadgeProj2.DisplayName: Gastly Badge Proj2
+	// GastlyBadgeProj3.DisplayName: Gastly Badge Proj3
+	// GastlyBadgeProj4.DisplayName: Gastly Badge Proj4
+	// GastlyBadgeProj5.DisplayName: Gastly Badge Proj5
+	// GastlyBadgeProj6.DisplayName: Gastly Badge Proj6
+	// GastlyBadgeProj7.DisplayName: Gastly Badge Proj7
+	// GastlyBadgeProj8.DisplayName: Gastly Badge Proj8
+	// CharmanderBadgeProj1.DisplayName: Charmander Badge Proj1
+	// CharmanderBadgeProj2.DisplayName: Charmander Badge Proj2
+	// CharmanderBadgeProj3.DisplayName: Charmander Badge Proj3
+	// CharmanderBadgeProj4.DisplayName: Charmander Badge Proj4
+	// CharmanderBadgeProj5.DisplayName: Charmander Badge Proj5
+	// CharmanderBadgeProj6.DisplayName: Charmander Badge Proj6
+	// BulbasaurBadgeProj1.DisplayName: Bulbasaur Badge Proj1
+	// BulbasaurBadgeProj2.DisplayName: Bulbasaur Badge Proj2
+	// BulbasaurBadgeProj3.DisplayName: Bulbasaur Badge Proj3
+	// BulbasaurBadgeProj4.DisplayName: Bulbasaur Badge Proj4
+	// BulbasaurBadgeProj5.DisplayName: Bulbasaur Badge Proj5
+	// BulbasaurBadgeProj6.DisplayName: Bulbasaur Badge Proj6
+	// BulbasaurBadgeProj7.DisplayName: Bulbasaur Badge Proj7
+	// BulbasaurBadgeProj8.DisplayName: Bulbasaur Badge Proj8
+	// BulbasaurBadgeProj10.DisplayName: Bulbasaur Badge Proj10
+	// BulbasaurBadgeProj9.DisplayName: Bulbasaur Badge Proj9
+	// BoulderBadgeProj1.DisplayName: Boulder Badge Proj1
+	// CascadeBadgeProj1.DisplayName: Cascade Badge Proj1
+	// EarthBadgeProj1.DisplayName: Earth Badge Proj1
+	// MarshBadgeProj1.DisplayName: Marsh Badge Proj1
+	// RainbowBadgeProj1.DisplayName: Rainbow Badge Proj1
+	// SoulBadgeProj1.DisplayName: Soul Badge Proj1
+	// ThunderBadgeProj1.DisplayName: Thunder Badge Proj1
+	// VolcanoBadgeProj1.DisplayName: Volcano Badge Proj1
+	// SquirtleProj1.DisplayName: Squirtle Proj1
+	// SquirtleProj2.DisplayName: Squirtle Proj2
+	// SquirtleProj3.DisplayName: Squirtle Proj3
+	// SquirtleProj4.DisplayName: Squirtle Proj4
+	// SquirtleProj5.DisplayName: Squirtle Proj5
+	// WrapTightlyHookProj.DisplayName: Wrap Tightly Hook Proj
+	// TaillowBadgeProj1.DisplayName: Taillow Badge Proj1
+	// TaillowBadgeProj2.DisplayName: Taillow Badge Proj2
+	// TaillowBadgeProj3.DisplayName: Taillow Badge Proj3
+	// TaillowBadgeProj4.DisplayName: Taillow Badge Proj4
+	// TaillowBadgeProj5.DisplayName: Taillow Badge Proj5
+	// TaillowBadgeProj6.DisplayName: Taillow Badge Proj6
+	// SpoinkBadgeProj1.DisplayName: Spoink Badge Proj1
+	// SpoinkBadgeProj2.DisplayName: Spoink Badge Proj2
+	// SpoinkBadgeProj3.DisplayName: Spoink Badge Proj3
+	// SpoinkBadgeProj4.DisplayName: Spoink Badge Proj4
+	// SpoinkBadgeProj5.DisplayName: Spoink Badge Proj5
+	// BeldumBadgeProj1.DisplayName: Beldum Badge Proj1
+	// BeldumBadgeProj2.DisplayName: Beldum Badge Proj2
+	// BeldumBadgeProj3.DisplayName: Beldum Badge Proj3
+	// BeldumBadgeProj4.DisplayName: Beldum Badge Proj4
+	// BeldumBadgeProj5.DisplayName: Beldum Badge Proj5
+	// BeldumBadgeProj6.DisplayName: Beldum Badge Proj6
+	// BeldumBadgeProj7.DisplayName: Beldum Badge Proj7
+	// WingullBadgeProj1.DisplayName: Wingull Badge Proj1
+	// WingullBadgeProj2.DisplayName: Wingull Badge Proj2
+	// WingullBadgeProj3.DisplayName: Wingull Badge Proj3
+	// WingullBadgeProj4.DisplayName: Wingull Badge Proj4
+	// WingullBadgeProj5.DisplayName: Wingull Badge Proj5
+	// WingullBadgeProj6.DisplayName: Wingull Badge Proj6
+	// VoltorbBadgeProj1.DisplayName: Voltorb Badge Proj1
+	// VoltorbBadgeProj2.DisplayName: Voltorb Badge Proj2
+	// VoltorbBadgeProj3.DisplayName: Voltorb Badge Proj3
+	// VoltorbBadgeProj4.DisplayName: Voltorb Badge Proj4
+	// VoltorbBadgeProj5.DisplayName: Voltorb Badge Proj5
+	// VoltorbBadgeProj6.DisplayName: Voltorb Badge Proj6
+	// MunchlaxProj1.DisplayName: Munchlax Proj1
+	// MunchlaxProj2.DisplayName: Munchlax Proj2
+	// MunchlaxProj3.DisplayName: Munchlax Proj3
+	// MunchlaxProj4.DisplayName: Munchlax Proj4
+	// MunchlaxProj5.DisplayName: Munchlax Proj5
+	// ExperienceOrb.DisplayName: Experience Orb
+	// PokeBallProj.DisplayName: Poke Ball Proj
+	// GreatBallProj.DisplayName: Great Ball Proj
+	// UltraBallProj.DisplayName: Ultra Ball Proj
+	// MasterBallProj.DisplayName: Master Ball Proj
+	// LuckPunchProj.DisplayName: Luck Punch Proj
+	// BulbasaurWhipProj.DisplayName: Bulbasaur Whip Proj
+	// SquirtleShieldProj.DisplayName: Squirtle Shield Proj
+	// CharmanderSwordProj.DisplayName: Charmander Sword Proj
+	// CharmanderSwordProj_.DisplayName: Charmander Sword Proj_
+	// BlankProj1.DisplayName: Blank Proj1
+	// FomantisBadgeProj1.DisplayName: Fomantis Badge Proj1
+	// FomantisBadgeProj2.DisplayName: Fomantis Badge Proj2
+	// FomantisBadgeProj3.DisplayName: Fomantis Badge Proj3
+	// FomantisBadgeProj4.DisplayName: Fomantis Badge Proj4
+	// FomantisBadgeProj4_.DisplayName: Fomantis Badge Proj4_
+	// FomantisBadgeProj5.DisplayName: Fomantis Badge Proj5
+	// TrapinchBadgeProj1.DisplayName: Trapinch Badge Proj1
+	// TrapinchBadgeProj2.DisplayName: Trapinch Badge Proj2
+	// TrapinchBadgeProj3.DisplayName: Trapinch Badge Proj3
+	// TrapinchBadgeProj3_.DisplayName: Trapinch Badge Proj3_
+	// TrapinchBadgeProj4.DisplayName: Trapinch Badge Proj4
+	// TrapinchBadgeProj5.DisplayName: Trapinch Badge Proj5
+	// TrapinchBadgeProj5_.DisplayName: Trapinch Badge Proj5_
+	// WingullArrowProj.DisplayName: Wingull Arrow Proj
+	// VoltorbYoyoProj.DisplayName: Voltorb Yoyo Proj
+	// VoltorbYoyoProj_.DisplayName: Voltorb Yoyo Proj_
+	// SunflowerBombProj.DisplayName: Sunflower Bomb Proj
+	// TrapinchGunProj.DisplayName: Trapinch Gun Proj
+	// TrapinchGunProj_.DisplayName: Trapinch Gun Proj_
+	// FomantisFlyingKnifeProj.DisplayName: Fomantis Flying Knife Proj
+	// WingullBowProj.DisplayName: Wingull Bow Proj
+	// MunchlaxCushionProj.DisplayName: Munchlax Cushion Proj
+	// TaillowBadgeBoomerangProj.DisplayName: Taillow Badge Boomerang Proj
+	// TaillowBadgeBoomerangProj_.DisplayName: Taillow Badge Boomerang Proj_
+	// TaillowBoomerangProj.DisplayName: Taillow Boomerang Proj
+	// TaillowBoomerangProj_.DisplayName: Taillow Boomerang Proj_
+	// BeldumChainlinkedBallProj.DisplayName: Beldum Chainlinked Ball Proj
+	// BeldumChainlinkedBallProj_.DisplayName: Beldum Chainlinked Ball Proj_
+	// GastlyStaffProj.DisplayName: Gastly Staff Proj
+	// GastlyStaffProj_.DisplayName: Gastly Staff Proj_
+	// PikachuBadgeProj1.DisplayName: Pikachu Badge Proj1
+	// PikachuBadgeProj2.DisplayName: Pikachu Badge Proj2
+	// PikachuBadgeProj3.DisplayName: Pikachu Badge Proj3
+	// PikachuBadgeProj5.DisplayName: Pikachu Badge Proj5
+	// PichuElectricSphereProj.DisplayName: Pichu Electric Sphere Proj
+	// PichuElectricSphereProj_.DisplayName: Pichu Electric Sphere Proj_
+	// PikachuElectricSphereProj_.DisplayName: Pikachu Electric Sphere Proj_
+	// PikachuStaffProj.DisplayName: Pikachu Staff Proj
+	// OnixClubProj.DisplayName: Onix Club Proj
+	// OnixClub_.DisplayName: Onix Club_
+	// OnixClub__W.DisplayName: Onix Club__ W
+	// OnixClubProj_W.DisplayName: Onix Club Proj_ W
+	// SprigatitoSpellbookProj.DisplayName: Sprigatito Spellbook Proj
+	// SprigatitoSpellbookProj_S.DisplayName: Sprigatito Spellbook Proj_ S
+	// SprigatitoSpellbookProj_H.DisplayName: Sprigatito Spellbook Proj_ H
+	// SprigatitoBadgeProj1.DisplayName: Sprigatito Badge Proj1
+	Beedrill_MegaProj_Flying.DisplayName: 超级大针蜂
+	Beedrill_MegaProj_Poison.DisplayName: 毒针
+	MiniBeedrillProj.DisplayName: 飞弹针
+	// Beedrill_MegaProj_Tail.DisplayName: Beedrill_ Mega Proj_ Tail
+}
+
+DamageClasses: {
+	PokemonDamageClass.DisplayName: 宝可梦伤害
+	PokeBallDamageClass.DisplayName: 捕捉伤害
+}
+
+Keybinds: {
+	// OpenBerryPouch.DisplayName: Open Berry Pouch
+	// 树果袋存放快捷.DisplayName: 树果袋存放快捷
+	// 树果袋快捷存放.DisplayName: 树果袋快捷存放
+	// 宝可梦雷达快捷存放.DisplayName: 宝可梦雷达快捷存放
+	// "Berry Pouch Quick-Deposit.DisplayName": Berry  Pouch  Quick- Deposit
+}
+
+NPCs: {
+	BeldumNPC.DisplayName: 铁哑铃
+	Bulbasaur.DisplayName: 妙蛙种子
+	Charmander.DisplayName: 小火龙
+	Gastly.DisplayName: 鬼斯
+	Munchlax.DisplayName: 小卡比兽
+	Spoink.DisplayName: 跳跳猪
+	Squirtle.DisplayName: 杰尼龟
+	Sunflower.DisplayName: 向日种子
+	Taillow.DisplayName: 傲骨燕
+	Voltorb.DisplayName: 雷电球
+	Wingull.DisplayName: 长翅鸥
+	Fomantis.DisplayName: 伪螳草
+	Trapinch.DisplayName: 大颚蚁
+	Pikachu.DisplayName: 皮卡丘
+
+	ProfessorSamuelOak: {
+		// DisplayName: Professor Samuel Oak
+
+		TownNPCMood: {
+			// Content: 我很满足。
+			// NoHome: 我讨厌没有家。
+			// FarFromHome: 我离家太远了。
+			// LoveSpace: 我非常喜欢有这么大的空间。
+			// DislikeCrowded: 我不喜欢这么拥挤。
+			// HateCrowded: 我讨厌这么拥挤。
+			// LikeBiome: 我喜欢{BiomeName}。
+			// DislikeBiome: 我不喜欢{BiomeName}。
+			// LoveNPC: 我非常喜欢{NPCName}。
+			// LikeNPC: 我喜欢{NPCName}。
+			// DislikeNPC: 我不喜欢{NPCName}。
+			// HateNPC: 我讨厌{NPCName}。
+			// LikeNPC_Princess: 我喜欢 {NPCName}。
+			// Princess_LovesNPC: 我喜欢 {NPCName}。
+		}
+
+		// Census.SpawnCondition: Conditions unknown
+	}
+
+	Beedrill_Mega.DisplayName: 超级大针蜂
+	MiniBeedrill.DisplayName: 迷你大针蜂
+}
